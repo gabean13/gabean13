@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=65&fontColor=black&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50)
 ***      
 &nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabean13&count_bg=%23257029&title_bg=%232C3105&icon=mixcloud.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
