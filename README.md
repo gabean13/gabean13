@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gabean13/gabean13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=80&fontColor=black&animation=twinkling)
+***      
+&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabean13&count_bg=%23257029&title_bg=%232C3105&icon=mixcloud.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
