@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 ## :bulb: Skills :bulb:
 
+### 1일 1커밋 도전 중..
+231113 ~
 </div>
