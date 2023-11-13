@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 &nbsp;
 &nbsp;
 
-## :bulb: Skills :bulb:
-
 ### 1일 1커밋 도전 중..
-231113 ~
+231113 ~ 알고리즘 ( 자바, C언어(학교수업) )
+
 </div>
