@@ -1,29 +1,59 @@
-<!--
-**gabean13/gabean13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Gabin's GitHub</title>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50" alt="Welcome to Gabin's GitHub">
+</head>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="left"> 
-  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50)
-
-&nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgabean13&count_bg=%23257029&title_bg=%232C3105&icon=mixcloud.svg&icon_color=%23FFFFFF&title=Today&edge_flat=false)](https://hits.seeyoufarm.com)
-&nbsp;
-
+<body>
   <img src="https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true" height="170"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabean13&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" height="170"/>
 
-&nbsp;
-&nbsp;
+
+
+<div>
+<h2> Skills </h2>
+<span>
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  </a>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  </a>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+</span>
+</div>
+
+<div>
+<h2> My contents </h2>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gabean13)](https://velog.io/@gabean13) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gabean13)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>
+
+<div>
+<h2>Awards</h2>
+
+2022 공학교육인증 창의설계 경진대회 **금상** 
+
+2022 세종대학교 컴퓨터공학과 학술제 **최우수상**
+</div>
+</body>
+
+</html>
