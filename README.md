@@ -7,43 +7,62 @@
 </head>
 
 <body>
+<div  style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true" height="170"/>
-
+</div>
+<div  style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabean13&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" height="170"/>
+</div>
 
-
+<h2>About Me</h2>
+<span>
+  <a href="https://velog.io/@gabean13/series">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=springboot&logoColor=white">
+  </a>
+   <a href="https://www.linkedin.com/in/%EA%B0%80%EB%B9%88-%EC%B5%9C-39b3a12b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</span>
 
 <div>
 <h2> Skills </h2>
+<!-- framework -->
+<div>
+<h4></h4>
 <span>
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  </a>
 </span>
 <span>
     <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  </a>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  </a>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  </a>
 </span>
 </div>
 
+<!-- database -->
 <div>
-<h2> My contents </h2>
+<span>
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+</div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gabean13)](https://velog.io/@gabean13) 
+<!-- language -->
+<div>
+<span>
+    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+</span>
+<span>
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+</span>
+</div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gabean13)](https://github.com/eungyeole/velog-readme-stats)
-
+<!-- os -->
+<div>
+<span>
+    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+</span>
+<span>
+    <img src="https://img.shields.io/badge/microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
+</span>
+</div>
 </div>
 
 <div>
