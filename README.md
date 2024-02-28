@@ -6,7 +6,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50" alt="Welcome to Gabin's GitHub">
 </head>
 
-<body>
+<body aligns="center">
 <div  style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true" height="170"/>
 </div>
