@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Gabin's GitHub</title>
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50" alt="Welcome to Gabin's GitHub">
 </head>
 
