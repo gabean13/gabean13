@@ -1,13 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" >
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50" alt="Welcome to Gabin's GitHub">
 </head>
 
-<body aligns="center">
-<div  style="display: inline-block">
+<body >
+<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true" height="170"/>
 </div>
 <div  style="display: inline-block">
@@ -71,6 +72,7 @@
 2022 공학교육인증 창의설계 경진대회 **금상** 
 
 2022 세종대학교 컴퓨터공학과 학술제 **최우수상**
+</div>
 </div>
 </body>
 
