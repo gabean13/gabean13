@@ -1,86 +1,42 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&section=header&text=Welcome%20to%20Gabin's%20GitHub😋&render&fontSize=50&fontColor=black&animation=twinkling&fontAlign=50&fontAlignY=50" alt="Welcome to Gabin's GitHub">
-</head>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=25&duration=2000&pause=2000&color=79BB2A&background=FFFFFF00&random=false&width=500&lines=Hello!;Welcome+to+Gabin's+GitHub)](https://git.io/typing-svg)
 
-<body >
-<div align="center">
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabean13&theme=vue&show_icons=true" height="170"/>
-</div>
-<div  style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabean13&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" height="170"/>
-</div>
+[![Gabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabean13&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>About Me</h2>
-<span>
-  <a href="https://velog.io/@gabean13/series">
-    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=springboot&logoColor=white">
-  </a>
-   <a href="https://www.linkedin.com/in/%EA%B0%80%EB%B9%88-%EC%B5%9C-39b3a12b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</span>
+[![CodeTree](https://banner.codetree.ai/v1/banner/gazette9)](https://www.codetree.ai/profiles/gazette9)
 
-<div>
-<h2> Skills </h2>
-<!-- framework -->
-<div>
-<h4></h4>
-<span>
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</span>
-<span>
-    <img src="https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</span>
-</div>
+&nbsp;
 
-<!-- database -->
-<div>
-<span>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=About+me)](https://git.io/typing-svg)
 
-<!-- language -->
-<div>
-<span>
-    <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-</span>
-<span>
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-</span>
-</div>
+[![LinkedIn Badge](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B0%80%EB%B9%88-%EC%B5%9C-39b3a12b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Tistory Badge](https://img.shields.io/badge/tistory-F46D01?style=for-the-badge&logo=tistory&logoColor=white)](https://coding-meongdo.tistory.com)
 
-<!-- os -->
-<div>
-<span>
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-</span>
-<span>
-    <img src="https://img.shields.io/badge/microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white">
-</span>
-</div>
-</div>
+  &nbsp;
 
-<div>
-<h2>Awards</h2>
-
-🏆 2022 공학교육인증 창의설계 경진대회 **금상** 
-
-🏆 2022 세종대학교 컴퓨터공학과 학술제 **최우수상** 
-</div>
-
-<h2>Certification</h2>
-
-📝 2024 AWS Certified Cloud Practitioner
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Skills)](https://git.io/typing-svg)
 
 
-</div>
-</div>
-</body>
+![LinkedIn Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![LinkedIn Badge](https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-</html>
+![LinkedIn Badge](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![LinkedIn Badge](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+![LinkedIn Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![LinkedIn Badge](https://img.shields.io/badge/microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![LinkedIn Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=🏆Awards🏆)](https://git.io/typing-svg)
+
+2022 공학교육인증 창의설계 경진대회 **금상**
+
+2022 세종대학교 컴퓨터공학과 학술제 abc **최우수상** 
+
+&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Certification)](https://git.io/typing-svg)
+
+**📝 2024 AWS Certified Cloud Practitioner**
