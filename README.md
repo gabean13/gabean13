@@ -2,8 +2,6 @@
 
 [![Gabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabean13&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![CodeTree](https://banner.codetree.ai/v1/banner/gazette9)](https://www.codetree.ai/profiles/gazette9)
-
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=About+me)](https://git.io/typing-svg)
