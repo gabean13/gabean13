@@ -29,6 +29,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=🏆Awards🏆)](https://git.io/typing-svg)
 
+2024 세종대학교 창의설계 경진대회 **대상**
+
 2022 공학교육인증 창의설계 경진대회 **금상**
 
 2022 세종대학교 컴퓨터공학과 학술제 **최우수상** 
