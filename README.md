@@ -36,7 +36,3 @@
 2022 세종대학교 컴퓨터공학과 학술제 **최우수상** 
 
 &nbsp;
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Certification)](https://git.io/typing-svg)
-
-**📝 2024 AWS Certified Cloud Practitioner**
