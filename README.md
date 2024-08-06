@@ -27,7 +27,15 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=🏆Awards🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Projects)](https://git.io/typing-svg)
+
+2024.03 ~          세종대학교 캡스톤 프로젝트 "[발밤발밤 : 외국인을 위한 한국어 발음 교정 시스템](https://github.com/Capstone-4Potato/backend-server)"
+
+2022.09 ~ 2023.06  세종대학교 창의학기제  "[수강신청도우미](https://github.com/sejong-class-registration/Client)"
+
+&nbsp;
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Awards)](https://git.io/typing-svg)
 
 2024 세종대학교 창의설계 경진대회 **대상**
 
