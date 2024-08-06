@@ -31,7 +31,10 @@
 
 2024.03 ~          세종대학교 캡스톤 프로젝트 "[발밤발밤 : 외국인을 위한 한국어 발음 교정 시스템](https://github.com/Capstone-4Potato/backend-server)"
 
+2024.07 ~ 개인 프로젝트 "[클라우드 스토리지 구현 프로젝트](https://github.com/gabean13/My-Storage)"
+
 2022.09 ~ 2023.06  세종대학교 창의학기제  "[수강신청도우미](https://github.com/sejong-class-registration/Client)"
+
 
 &nbsp;
 
