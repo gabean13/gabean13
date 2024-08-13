@@ -9,16 +9,6 @@
 
   &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Skills)](https://git.io/typing-svg)
-
-
-![LinkedIn Badge](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![LinkedIn Badge](https://img.shields.io/badge/springBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-![LinkedIn Badge](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
-![LinkedIn Badge](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Projects)](https://git.io/typing-svg)
