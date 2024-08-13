@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&weight=700&size=25&duration=2000&pause=2000&color=79BB2A&background=FFFFFF00&random=false&width=500&lines=Hello!;Welcome+to+Gabin's+GitHub)](https://git.io/typing-svg)
 
-[![Gabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabean13&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
 &nbsp;
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=About+me)](https://git.io/typing-svg)
@@ -20,10 +18,6 @@
 ![LinkedIn Badge](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![LinkedIn Badge](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-![LinkedIn Badge](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![LinkedIn Badge](https://img.shields.io/badge/microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-
-![LinkedIn Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 &nbsp;
 
@@ -35,15 +29,3 @@
 
 2022.09 ~ 2023.06  세종대학교 창의학기제  "[수강신청도우미](https://github.com/sejong-class-registration/Client)"
 
-
-&nbsp;
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=3AA1B8&repeat=false&random=false&width=435&height=30&lines=Awards)](https://git.io/typing-svg)
-
-2024 세종대학교 창의설계 경진대회 **대상**
-
-2022 공학교육인증 창의설계 경진대회 **금상**
-
-2022 세종대학교 컴퓨터공학과 학술제 **최우수상** 
-
-&nbsp;
