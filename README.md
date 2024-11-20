@@ -25,21 +25,21 @@
   <h4> 🔎 Repository </h4>
   <p>
   <a href="https://github.com/Capstone-4Potato/Backend-server">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Capstone-4Potato&repo=Backend-server&theme=github"/>
+    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=Capstone-4Potato&repo=Backend-server&theme=github"/>
   </a>
 
   <a href="https://github.com/gabean13/My-Storage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabean13&repo=My-Storage&theme=github"/>
+    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=gabean13&repo=My-Storage&theme=github"/>
   </a>
   </p>
 
   <p>
   <a href="https://github.com/sejong-class-registration/Client">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sejong-class-registration&repo=Client&theme=github"/>
+    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=sejong-class-registration&repo=Client&theme=github"/>
   </a>
 
   <a href="https://github.com/gabean13/Algorithm_study">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabean13&repo=Algorithm_study&theme=github"/>
+    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=gabean13&repo=Algorithm_study&theme=github"/>
   </a>
   </p>
 </div>
