@@ -18,30 +18,3 @@
     <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gazette9">
   </a>
 </div>
-
-<br> 
-
-<div align="left">
-  <h4> 🔎 Repository </h4>
-  <p>
-  <a href="https://github.com/Capstone-4Potato/Backend-server">
-    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=Capstone-4Potato&repo=Backend-server&theme=github"/>
-  </a>
-
-  <a href="https://github.com/gabean13/My-Storage">
-    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=gabean13&repo=My-Storage&theme=github"/>
-  </a>
-  </p>
-
-  <p>
-  <a href="https://github.com/sejong-class-registration/Client">
-    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=sejong-class-registration&repo=Client&theme=github"/>
-  </a>
-
-  <a href="https://github.com/gabean13/Algorithm_study">
-    <img width=416 src="https://github-readme-stats.vercel.app/api/pin/?username=gabean13&repo=Algorithm_study&theme=github"/>
-  </a>
-  </p>
-</div>
-
-<br>
