@@ -1,6 +1,6 @@
 <h2> Hello, I'm Gabin 
 <div align="left">
-  <a align="left" href="https://www.linkedin.com/in/%EA%B0%80%EB%B9%88-%EC%B5%9C-39b3a12b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> 
+  <a align="left" href="https://www.linkedin.com/in/gabin-choi-39b3a12b2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=badge&logo=LinkedIn&logoColor=white"/> 
   </a> 
   <a align="left" href="https://coding-meongdo.tistory.com"> 
@@ -8,6 +8,13 @@
   </a>
 </div>
 </h2>
+
+<div align="left">
+  <h4> 📖 Education </h4>
+  
+- 우아한테크코스 7기 BE (2025.02 ~ )
+- 세종대학교 컴퓨터공학과 (2021.03 ~ 2025.02)
+</div>
 
 <div align="left">
   <h4> 🔎 Git & Solved.ac </h4>
