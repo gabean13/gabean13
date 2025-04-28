@@ -7,14 +7,3 @@
     <img src="https://img.shields.io/badge/Tistory-black?style=badge&logo=Tistory&logoColor=white"/> </a> 
   </a>
 </div>
-</h2>
-
-<div align="left">
-  <h4> 🔎 Git & Solved.ac </h4>
-  <a>
-    <img height=150 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabean13&theme=github"/>
-  </a>
-  <a href="https://solved.ac/gazette9"> 
-    <img height=150 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gazette9">
-  </a>
-</div>
