@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabin-choi-39b3a12b2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 사람 중심의 문제 해결을 좋아하는 백엔드 개발자입니다.  
-생산성과 소프트스킬에 관심이 많으며, 더 나은 협업과 성장에 집중합니다.
+생산성과 소프트스킬에 관심이 많습니다.
 
 ---
 
