@@ -2,6 +2,7 @@
 
 ## 💻 프로젝트
 
+- Fullstack - **[감바쓰](https://github.com/Gambas-s/web)** 나쁜 감정은 바로 쓰레기통으로! AI 채팅 서비스
 - Backend - **[히어릿](https://github.com/woowacourse-teams/2025-hEARit)** 개발자를 위한 팟캐스트 서비스  
 - Backend - **[발밤발밤](https://github.com/Capstone-4Potato/Backend-server)** 외국인을 위한 한국어 발음 학습 서비스  
 
